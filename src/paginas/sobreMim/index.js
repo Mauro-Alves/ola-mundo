@@ -36,7 +36,7 @@ export default function SobreMim() {
                 Estudei várias linguagens de programação de Controladores Lógicos Programaveis (CLP) e também de Interface Homem Máquina (IHM).
             </p>
             <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de estar estudando aqui. Espero aprender bastante!
+                Desde então, tem sido apenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de estar estudando aqui. Espero aprender bastante!
             </p>
         </PostModelo>
     )
